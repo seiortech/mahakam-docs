@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Mahakam</title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Docs on Mahakam</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration</title>
+      <link>//localhost:1313/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/configuration/</guid>
+      <description>&lt;p&gt;&lt;code&gt;soon&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metrics</title>
+      <link>//localhost:1313/docs/metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/metrics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Middleware</title>
+      <link>//localhost:1313/docs/middleware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/middleware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/overview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quick Start</title>
+      <link>//localhost:1313/docs/quick-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/quick-start/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Routing</title>
+      <link>//localhost:1313/docs/routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/routing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tracing</title>
+      <link>//localhost:1313/docs/tracing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tracing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Validation</title>
+      <link>//localhost:1313/docs/validation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/validation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Websocket</title>
+      <link>//localhost:1313/docs/websocket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/websocket/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
