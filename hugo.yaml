@@ -38,7 +38,7 @@ markup:
 params:
   project:
     # To omit the startYear, put a ~ in its place.
-    startYear: 2025
+    startYear: ~
     presentYear: 2025
     github:
       repo: seiortech/mahakam
