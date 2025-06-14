@@ -12,7 +12,7 @@ languages:
     contentDir: content/en
     title: Mahakam
     params:
-      description: Mahakam is a HTTP Framework for go that written over netpoll that support net/http package.
+      description: Mahakam is a HTTP Framework for go written over netpoll that support net/http package.
       keywords: go, golang, http, framework, netpoll, net/http
       author:
         name: Raden Mohamad Rishwan
@@ -53,5 +53,5 @@ params:
   home:
     heading: Mahakam
     headingSegment2: HTTP Framework for Go
-    description: Mahakam is a HTTP Framework for go that written over netpoll that support net/http package.
+    description: Mahakam is a HTTP Framework for go written over netpoll that support net/http package.
     getStartedPath: docs/
