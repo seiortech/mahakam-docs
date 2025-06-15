@@ -1,6 +1,6 @@
 theme: E25DX
 
-enableGitInfo: false
+enableGitInfo: true
 
 defaultContentLanguage: en
 
@@ -22,7 +22,7 @@ languages:
 # To omit the Google Analytics script, put a ~ in place of the G-XXXXXXXXXX below.
 services:
   googleAnalytics:
-    ID: G-XXXXXXXXXX
+    ID: G-45D28YXK4C
 
 markup:
   highlight:
